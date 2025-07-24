@@ -32,7 +32,6 @@ He cofundado y liderado startups en el mundo de HRTech y FinTech:
 
 ## 🏃 En mi tiempo libre…
 
-- Maratonista.
 - Practico golf, yoga y meditación
 - Me apasiona la introspección y el bienestar personal
 - Estoy aprendiendo más sobre AI, diseño UX y desarrollo web
