@@ -11,13 +11,6 @@ Actualmente estoy trabajando en varios proyectos que mezclan tecnología, empat�
 - 👥 SaaS de Recursos Humanos y Nómina**  
  Desarrollando soluciones para simplificar la gestión de personas en empresas pequeñas y medianas, con enfoque en la colaboración, cumplimiento legal y eficiencia operativa.
 
-- 🧠 Milu.life — Salud mental con IA
- Un companion virtual que simula videollamadas con psicólogos AI. Buscamos democratizar el acceso al bienestar emocional usando IA, voz y avatares en tiempo real.  
-  *Sí, suena futurista, y sí, ya estamos en eso.*
-
-- ⚙️ Automatizaciones no-code/low-code
- Me encanta optimizar procesos usando herramientas como Make, Lovable.dev, Supabase y Heygen. Desde reclutamiento hasta flujos de nómina por WhatsApp.
-
 ---
 
 ## 💼 Trayectoria de emprendedor
